@@ -37,7 +37,7 @@ namespace Variables
             char symbol;
             symbol = 'A';
             Console.WriteLine(symbol);
-
+            //taha
             #region Tam sayı girişleri ve dönüşümler
             int shoePrice, computerPrice, chairPrice, tvPrice;
             shoePrice = 1000;
